@@ -10,7 +10,7 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'pg', '>= 0.18', '< 2.0'
 
 # Servers
-gem 'puma', '~> 4.1'
+gem 'puma', '>= 4.3.3'
 
 # CSS
 gem 'sass-rails', '>= 6'
